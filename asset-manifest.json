@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f8df08b.css",
-    "main.js": "/static/js/main.cb59b3e6.js",
-    "static/js/453.f02ac6fb.chunk.js": "/static/js/453.f02ac6fb.chunk.js",
-    "static/media/Proyecto2-GranVista.jpg": "/static/media/Proyecto2-GranVista.cc060ce4a48b8231a3d5.jpg",
-    "static/media/Proyecto1-Alamos.jpg": "/static/media/Proyecto1-Alamos.5b305d3d7f30b0e99faa.jpg",
-    "static/media/Proyecto3-TerraAlta.jpg": "/static/media/Proyecto3-TerraAlta.cf6086b3d4ddf03bb8cd.jpg",
-    "static/media/logo.footer.jpeg": "/static/media/logo.footer.79878b0e08554413abb9.jpeg",
-    "static/media/logo.header.jpeg": "/static/media/logo.header.707a9847ede8ce172c12.jpeg",
-    "index.html": "/index.html",
-    "main.3f8df08b.css.map": "/static/css/main.3f8df08b.css.map",
-    "main.cb59b3e6.js.map": "/static/js/main.cb59b3e6.js.map",
-    "453.f02ac6fb.chunk.js.map": "/static/js/453.f02ac6fb.chunk.js.map"
+    "main.css": "/Lenguajes-TP8/static/css/main.3f8df08b.css",
+    "main.js": "/Lenguajes-TP8/static/js/main.58060faf.js",
+    "static/js/453.f02ac6fb.chunk.js": "/Lenguajes-TP8/static/js/453.f02ac6fb.chunk.js",
+    "static/media/Proyecto2-GranVista.jpg": "/Lenguajes-TP8/static/media/Proyecto2-GranVista.cc060ce4a48b8231a3d5.jpg",
+    "static/media/Proyecto1-Alamos.jpg": "/Lenguajes-TP8/static/media/Proyecto1-Alamos.5b305d3d7f30b0e99faa.jpg",
+    "static/media/Proyecto3-TerraAlta.jpg": "/Lenguajes-TP8/static/media/Proyecto3-TerraAlta.cf6086b3d4ddf03bb8cd.jpg",
+    "static/media/logo.footer.jpeg": "/Lenguajes-TP8/static/media/logo.footer.79878b0e08554413abb9.jpeg",
+    "static/media/logo.header.jpeg": "/Lenguajes-TP8/static/media/logo.header.707a9847ede8ce172c12.jpeg",
+    "index.html": "/Lenguajes-TP8/index.html",
+    "main.3f8df08b.css.map": "/Lenguajes-TP8/static/css/main.3f8df08b.css.map",
+    "main.58060faf.js.map": "/Lenguajes-TP8/static/js/main.58060faf.js.map",
+    "453.f02ac6fb.chunk.js.map": "/Lenguajes-TP8/static/js/453.f02ac6fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f8df08b.css",
-    "static/js/main.cb59b3e6.js"
+    "static/js/main.58060faf.js"
   ]
 }
